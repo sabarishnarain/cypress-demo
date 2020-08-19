@@ -1,0 +1,8 @@
+{
+  "video": false,
+  "defaultCommandTimeout" : 10000,
+  "failOnStatusCode": false,
+  "baseUrl": "https://docs.cypress.io/guides/overview/why-cypress.html#In-a-nutshell",
+  "experimentalSourceRewriting": true,
+  "numTestsKeptInMemory": 1
+}
